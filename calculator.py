@@ -35,7 +35,7 @@ welcome = """
 \  /\  /  __/ | (_| (_) | | | | | |  __/
  \/  \/ \___|_|\___\___/|_| |_| |_|\___/      
 
-Welcome To Shining Dev's basic Python calculator.\nPlease type help if you have any questions.
+Welcome To Shining Dev's basic Python calculator.\
 \n      
 """
 r1 = "[*] Use operators such as +, -, *, / \n"
