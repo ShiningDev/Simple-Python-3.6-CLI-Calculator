@@ -41,6 +41,8 @@ Welcome To Shining Dev's basic Python calculator.\nPlease type help if you have 
 r1 = "[*] Use operators such as +, -, *, / \n"
 r2 = "[*] You're only limited to 2 numbers \n"
 r3 = "[*] More bugs coming soon :) \n"
+r4 = "[*] You'll need a space for every digit, EX: 1 + 1, 2 * 2, 3 - 3, 4 / 4\n"
+
 
 printout(welcome, RED)
 printout(r1, GREEN)
