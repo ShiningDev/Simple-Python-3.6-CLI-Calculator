@@ -36,7 +36,6 @@ welcome = """
  \/  \/ \___|_|\___\___/|_| |_| |_|\___/      
 
 Welcome To Shining Dev's basic Python calculator.
-\n      
 """
 r1 = "[*] Use operators such as +, -, *, / \n"
 r2 = "[*] You're only limited to 2 numbers \n"
